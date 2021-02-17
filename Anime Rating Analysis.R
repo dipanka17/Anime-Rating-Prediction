@@ -576,13 +576,4 @@ print(paste('### Median Accuracy of Linear Regression Model is: ', 100 - MedianA
 ## The P-value: < 0.00000000000000022
 ## Since the p-value is low. Therefore we reject null hypothesis which means the model prediction is possible.
 
-## Business Recommendations
-
-## With increase in every one person who watched different type of anime, the rating increases by 0.284. 
-## The anime which are still ongoing is more than the anime which are not by 0.606.
-## The rating of movies is more than the other media types by 0.403.
-## the ratings of web series is less than the the other media types by 0.095.
-## Therefore we conclude that rating of different type anime dependent on the viewers who already watch the particular anime.
-## Rating is more for ongoing anime types than the anime are not.
-## By this we can say that the viewers are more inclined towards movies types contents of animes are popular. 
 
